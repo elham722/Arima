@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arima.Persistance", "Arima.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arima.API", "Arima.API\Arima.API.csproj", "{DD215713-CA58-4361-8720-B03C113B8DFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arima.TestTools", "Arima.TestTools\Arima.TestTools.csproj", "{59D884D2-D443-4C06-8283-914D4C468F28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{DD215713-CA58-4361-8720-B03C113B8DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD215713-CA58-4361-8720-B03C113B8DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD215713-CA58-4361-8720-B03C113B8DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59D884D2-D443-4C06-8283-914D4C468F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D884D2-D443-4C06-8283-914D4C468F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D884D2-D443-4C06-8283-914D4C468F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D884D2-D443-4C06-8283-914D4C468F28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -83,6 +89,7 @@ Global
 		{8E026E31-68CF-45F5-BB88-DC3416EE2570} = {CBC12A24-8B9F-4889-8AF0-2A46D4867750}
 		{CC6AA6BB-CDFB-42E4-B378-21B770479619} = {CBC12A24-8B9F-4889-8AF0-2A46D4867750}
 		{DD215713-CA58-4361-8720-B03C113B8DFE} = {3F455785-A58F-4980-A745-EE91E95EF765}
+		{59D884D2-D443-4C06-8283-914D4C468F28} = {E2AF906A-03BD-4108-9698-9E4834384885}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {26BCC7DE-B426-4112-8EF5-5DB632DA313B}
