@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MediatR" Version="12.5.0" />
+    <Folder Include="Contracts\Identity\" />
+    <Folder Include="DTOs\User\" />
+    <Folder Include="Features\Authentication\" />
   </ItemGroup>
 
 </Project>

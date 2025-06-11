@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Arima.Identity\Arima.Identity.csproj" />
+    <Folder Include="Controllers\" />
   </ItemGroup>
 
 </Project>
